@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucas 👋
 
 - 📚 Undergraduate Computer Science student ad Santa Catarina's Federal Univeristy ([UFSC](cco.ufsc.br))
-- 🛰 Volunteer Researcher at UFSC's [Space Technology Research Laboratory](https://spacelab.ufsc.br/en/home/)
+- 🛰 Researcher at UFSC's [Space Technology Research Laboratory](https://spacelab.ufsc.br/en/home/)
 - 💻 Currently working on and learning about Test Automation/CI with GitHub Actions
 - 🖧 Studying to do a carreer shift onto DevOps
 - 🪐 Space Exploration, Astronomy and Rocketry enthusiast
