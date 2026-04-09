@@ -5,4 +5,4 @@
 - 🔭 Worked as a Student Researcher at UFSC's [Space Technology Research Laboratory](https://github.com/spacelab-ufsc)
 - 🛰️ I wrote Python and C for a CubeSat mission
 - 🪐 Space Exploration, Astronomy and Rocketry enthusiast
-- 🎮 Avid gamer
+- 🎮 WIP Graphics Programmer
